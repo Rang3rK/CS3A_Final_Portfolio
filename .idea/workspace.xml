@@ -20,9 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96e1399f-ce6d-42a7-8138-9af531933170" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96e1399f-ce6d-42a7-8138-9af531933170" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +51,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/nular/CS3A - Portfolio/main.cpp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,7 +119,7 @@
       <workItem from="1706205112853" duration="1533000" />
       <workItem from="1706474810101" duration="3963000" />
       <workItem from="1706735594701" duration="708000" />
-      <workItem from="1706803727046" duration="952000" />
+      <workItem from="1706803727046" duration="1263000" />
     </task>
     <servers />
   </component>
